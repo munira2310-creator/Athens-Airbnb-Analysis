@@ -31,3 +31,6 @@ The goal is to uncover insights about:
 ## 📊 Query Results
 
 - **Neighbourhood Count** → [data/neighbourhood_counts.csv](data/neighbourhood_counts.csv)
+- **Average Price by Neighbourhood** → [data/neighbourhood_avg_price.csv](data/neighbourhood_avg_price.csv)
+- **Room Type Price** → [data/room_type_avg_price.csv](data/room_type_avg_price.csv)
+- **Room Type Availability** → [data/room_type_avg_availability.csv](data/room_type_avg_availability.csv)
