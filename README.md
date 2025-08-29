@@ -27,3 +27,7 @@ The goal is to uncover insights about:
 - Hosts with multiple listings dominate popular areas  
 
 ## 📂 Project Structure
+
+## 📊 Query Results
+
+- **Neighbourhood Count** → [data/neighbourhood_counts.csv](data/neighbourhood_counts.csv)
