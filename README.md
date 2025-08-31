@@ -44,7 +44,8 @@ The goal is to uncover insights about:
 ![Room Type Avg Availability](visuals/room_type_avg_availability.png)
 
 ### 3. Average Price by Neighbourhood
-![Neighbourhood Avg Price](visuals/neighbourhood_avg_price.png)
+![Neighbourhood Avg Price](visuals/avg_price_by_neighbourhood.png)
 
 ### 4. Listings Count by Neighbourhood
-![Neighbourhood Count](visuals/neighbourhood_count.png)
+![Listings Count by Neighbourhood](visuals/neighbourhood_count.png)
+
