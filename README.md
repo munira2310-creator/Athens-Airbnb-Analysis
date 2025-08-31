@@ -37,15 +37,16 @@ The goal is to uncover insights about:
 
 ## 📉 Visualizations
 
-### 1. Average Price by Room Type
-![Room Type Avg Price](Visuals/room_type_avg_price.png)
+### 1. Average Availability (365 days) by Room Type
+![Average Availability by Room Type](visuals/avg_availability_by_roomtype.png)
 
-### 2. Average Availability by Room Type
-![Room Type Avg Availability](Visuals/room_type_avg_availability.png)
+### 2. Average Price by Neighbourhood (Athens)
+![Average Price by Neighbourhood](visuals/avg_price_by_neighbourhood.png)
 
-### 3. Average Price by Neighbourhood
-![Neighbourhood Avg Price](Visuals/avg_price_by_neighbourhood.png)
+### 3. Listings Count by Neighbourhood
+![Neighbourhood Distribution](visuals/neighbourhood_distribution.png)
 
-### 4. Listings Count by Neighbourhood
-![Listings Count by Neighbourhood](Visuals/neighbourhood_count.png)
+### 4. Average Price by Room Type (€)
+![Average Price by Room Type](visuals/avg_price_by_roomtype.png)
+
 
