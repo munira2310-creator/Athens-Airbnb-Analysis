@@ -49,5 +49,35 @@ The goal is to uncover insights about:
 ### 4. Listings Distribution by Neighbourhood
 ![Neighbourhood Distribution](visuals/neighbourhood_distribution.png)
 
+## 🏁 Final Summary
+
+This project analyzed Airbnb listings in Athens to uncover patterns in pricing, availability, and neighborhood trends.  
+Using **SQL** for data cleaning and exploration, and **Tableau** for visual storytelling, we identified key insights that can help hosts, travelers, and stakeholders make informed decisions.
+
+### 🔑 Key Insights:
+- **Central Athens Dominates**: Most listings are concentrated in central neighborhoods such as *Koukaki*, *Kolonaki*, and *Neos Kosmos*, indicating high demand for these areas.  
+- **Entire Homes Are Premium**: Entire apartments have the highest average prices, while shared rooms are the most affordable.  
+- **Availability Varies by Room Type**: Some property types are available year-round, while others are more seasonal.  
+- **Top Hosts Stand Out**: A few hosts manage multiple listings, showing signs of professional hosting in popular neighborhoods.
+
+### 🌟 What I Learned:
+- Practical experience with **SQL** for cleaning and analyzing real-world data  
+- Designing **Tableau dashboards** for clear and actionable storytelling  
+- Understanding the **relationship between data, business decisions, and visualization**
+
+### 🚀 Next Steps:
+- Implement **predictive modeling** to forecast pricing trends using machine learning  
+- Expand analysis to include other major cities in Greece for comparison  
+- Create an interactive dashboard with filters for property type and neighborhood
+
+---
+
+### 🙌 Acknowledgments
+Special thanks to the open-source Airbnb dataset community and the Tableau Public platform for making data visualization accessible and impactful.
+
+---
+
+**Author:** Shirajum Munira  
+*Data enthusiast exploring SQL, BI, and analytics for real-world business insights.*
 
 
